@@ -1,0 +1,14 @@
+svg{
+    max-width: 60px;
+    fill:rgb(181, 132, 207);
+}
+#dot{
+    fill:rgb(255, 160, 113);
+}
+svg:hover{
+    transform: scale(1.1);
+    fill:rgb(214, 47, 31);
+    #dot{
+        fill:rgb(250, 133, 74);
+    }
+}
