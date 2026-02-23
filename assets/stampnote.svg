@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 512 512">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        display: none;
+      }
+
+      .st0, .st1 {
+        stroke-width: 30px;
+      }
+
+      .st0, .st1, .st2, .st3, .st4 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        stroke-width: 20px;
+      }
+
+      .st2, .st3 {
+        fill: none;
+      }
+
+      .st3 {
+        stroke-width: 18px;
+      }
+
+      .st4 {
+        stroke-width: 8px;
+      }
+    </style>
+  </defs>
+  <g id="mail">
+    <rect class="st2" x="16.5" y="80.2" width="478.5" height="360.8" rx="95" ry="95"/>
+    <path class="st1" d="M63,111"/>
+    <path class="st3" d="M27,127.1c4.8,8.3,66.9,112.3,196.2,124.7,101.5,9.7,202.1-40.9,251.8-127.8"/>
+    <path class="st0" d="M309.9,250.5l.3,18.3c.2,11.2-5.8,21.7-15.6,27.1l-16,8.9c-9.3,5.2-20.7,5.1-29.9-.3l-18.2-10.5c-9.2-5.3-15-15.1-15.2-25.8l-.3-18.3c-.2-11.2,5.8-21.7,15.6-27.1l16-8.9c9.3-5.2,20.7-5.1,29.9.3l18.2,10.5c9.2,5.3,15,15.1,15.2,25.8Z"/>
+  </g>
+  <g id="stamp">
+    <path class="st4" d="M303.3,247.5l.3,18.3c.2,11.2-5.8,21.7-15.6,27.1l-16,8.9c-9.3,5.2-20.7,5.1-29.9-.3l-18.2-10.5c-9.2-5.3-15-15.1-15.2-25.8l-.3-18.3c-.2-11.2,5.8-21.7,15.6-27.1l16-8.9c9.3-5.2,20.7-5.1,29.9.3l18.2,10.5c9.2,5.3,15,15.1,15.2,25.8Z"/>
+  </g>
+</svg>

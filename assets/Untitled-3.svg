@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 512 512">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: FuturaPT-Book, 'Futura PT';
+        font-size: 70.3px;
+      }
+
+      .st0, .st1 {
+        fill: #fff;
+      }
+
+      .st1, .st2, .st3 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .st1, .st3 {
+        stroke-width: 20px;
+      }
+
+      .st2 {
+        fill: none;
+        stroke-width: 18px;
+      }
+    </style>
+  </defs>
+  <g id="mail">
+    <rect class="st1" x="73.5" y="98" width="377.5" height="296" rx="73.5" ry="73.5"/>
+    <line class="st2" x1="72" y1="138.6" x2="259.4" y2="279.2"/>
+    <line class="st2" x1="448" y1="131" x2="259.4" y2="282.4"/>
+    <path class="st3" d="M256,302.2l-30.7-29.7c-1.9-1.8-1.9-4.7,0-6.5l31-30c1.9-1.8,4.9-1.8,6.7,0l30.7,29.7c1.9,1.8,1.9,4.7,0,6.5l-31,30c-1.9,1.8-4.9,1.8-6.7,0Z"/>
+  </g>
+  <g id="IN">
+    <text class="st0" transform="translate(234.3 287.9) scale(1.1 1)"><tspan x="0" y="0">in</tspan></text>
+  </g>
+</svg>
